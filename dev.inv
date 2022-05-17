@@ -1,0 +1,2 @@
+[slave]
+192.168.106.138 ansible_user=slave ansible_password=slave123 #slave-server
